@@ -1,0 +1,18 @@
+[submodule "AI-ML-cheatsheets"]
+	path = AI-ML-cheatsheets
+	url = https://github.com/SamBelkacem/AI-ML-cheatsheets
+[submodule "AI-ML-Cheat-Sheets"]
+	path = AI-ML-Cheat-Sheets
+	url = https://github.com/terencetachiona/AI-ML-Cheat-Sheets
+[submodule "ml-cheatsheet"]
+	path = ml-cheatsheet
+	url = https://github.com/jayinai/ml-cheatsheet
+[submodule "PythonDataScienceHandbook"]
+	path = PythonDataScienceHandbook
+	url = https://github.com/jakevdp/PythonDataScienceHandbook
+[submodule "stanford-cs-229-machine-learning"]
+	path = stanford-cs-229-machine-learning
+	url = https://github.com/afshinea/stanford-cs-229-machine-learning
+[submodule "cs230-code-examples"]
+	path = cs230-code-examples
+	url = https://github.com/cs230-stanford/cs230-code-examples
